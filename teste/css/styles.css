@@ -1,0 +1,112 @@
+body{
+    background-color: rgb(40, 70, 95);
+}
+
+.title{
+    font-family: "Arial";
+    color: rgb(165, 209, 209);
+}
+
+.linha1{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    
+}
+
+img{
+    width: 140px;
+    margin: 50px;
+}
+
+.linha2{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    padding: 15px;
+}
+
+.pokemons{
+    font-family: "Arial";
+    color: rgb(19, 27, 65);
+    background-color: rgb(10, 10, 75);
+    border-radius: 50px;
+    position: relative;
+    padding: 15px;
+}
+
+.squirtle{
+    background-color: rgb(40, 132, 218);
+    justify-content: center;
+    border-radius: 30px;
+}
+.squirtle p{
+    display: flex;
+    justify-content: center;
+}
+.wartortle{
+    background-color: rgb(33, 112, 214);
+    border-radius: 30px;
+    justify-content: center;
+}
+.wartortle p{
+    display: flex;
+    justify-content: center;
+}
+.blastoise{
+    background-color: rgb(20, 91, 184);
+    border-radius: 30px;
+    justify-content: center;
+}
+.blastoise p{
+    display: flex;
+    justify-content: center;
+}
+.psyduck{
+    background-color: rgb(211, 185, 67);
+    border-radius: 30px;
+    justify-content: center;
+}
+.psyduck p{
+    display: flex;
+    justify-content: center;
+}
+.golduck{
+    background-color: rgb(67, 113, 211);
+    border-radius: 30px;
+    justify-content: center;
+}
+.golduck p{
+    display: flex;
+    justify-content: center;
+}
+.poliwag{
+    background-color: rgb(67, 134, 211);
+    border-radius: 30px;
+    justify-content: center;
+}
+.poliwag p{
+    display: flex;
+    justify-content: center;
+}
+.poliwhirl{
+    background-color: rgb(49, 124, 209);
+    border-radius: 30px;
+    justify-content: center;
+}
+.poliwhirl p{
+    display: flex;
+    justify-content: center;
+}
+.poliwrath{
+    background-color: rgb(32, 108, 194);
+    border-radius: 30px;
+    justify-content: center;
+}
+.poliwrath p{
+    display: flex;
+    justify-content: center;
+}
+.Geração{
+    font-family: "Arial";
+}
